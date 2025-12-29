@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Aryan Prasad Singh</h1>
+<h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 <h3 align="center">B.Tech Computer Science & Artificial Intelligence (CSAI)</h3>
 
 <p align="center">
@@ -75,11 +75,11 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAryanSin&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAryanSin&theme=tokyonight" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevAryanSin&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
