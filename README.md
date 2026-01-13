@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects  
 
-- 🔹 **Knowledge Graph–Enhanced Medical MoE System**  
+- 🔹 **WikiGPT- RAG Chatbot on Wikipedia knowledge**  
   AI system combining **Mixture of Experts + Knowledge Graphs** to reduce hallucinations and improve medical QA accuracy.
 
 - 🔹 **Full-Stack AI Applications**  
@@ -94,9 +94,8 @@ Here are some ideas to get you started:
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *Add your link*
-- 🌐 Portfolio: *Add your site*
-- 📧 Email: *Add your professional email*
+- 💼 LinkedIn: *[LinkedIn](https://www.linkedin.com/in/aryansingh97/)*
+- 🌐 WikiGPT: *[WikiGPT](https://www.wikigpt.app/)*
 
 ---
 
