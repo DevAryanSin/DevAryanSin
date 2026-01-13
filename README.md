@@ -61,8 +61,12 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects  
 
-- 🔹 **WikiGPT- RAG Chatbot on Wikipedia knowledge**  
-  AI system combining **Mixture of Experts + Knowledge Graphs** to reduce hallucinations and improve medical QA accuracy.
+- 🔹 **WikiGPT- RAG based AI Assistant on Wikipedia*  
+  -Built a Retrieval-Augmented Generation (RAG) chatbot grounded in Wikipedia knowledge
+  -Uses hybrid retrieval (dense + sparse) for high-precision context fetching
+  -Designed to reduce hallucinations and improve factual accuracy
+  -Explored Knowledge Graph integration and Mixture-of-Experts (MoE) concepts
+  -Focused on scalable LLM pipelines and real-world information retrieval
 
 - 🔹 **Full-Stack AI Applications**  
   End-to-end web apps using **Next.js, Node.js, MongoDB**, and **ML models** for real-world use cases.
