@@ -52,7 +52,7 @@
 - Explored **Knowledge Graphs** and **Mixture-of-Experts (MoE)** concepts
 - Focused on **scalable LLM pipelines** and real-world information retrieval  
 
-🌐 Live: https://www.wikigpt.app/
+🌐 Live: [WikiGPT](https://www.wikigpt.app/)
 
 ---
 
@@ -67,6 +67,8 @@
   - Controlled generation  
 - Built as a **modular full-stack AI system**
 
+🌐 Live: [NovelAI](https://novel-ai-one.vercel.app/)
+
 ---
 
 ### 🔹 Full-Stack AI Applications  
@@ -76,12 +78,6 @@
 
 ---
 
-### 🔹 System & Algorithmic Projects  
-- Optimized implementations of:
-  - **Data Structures & Algorithms**
-  - **Number Theory**
-  - **Performance-critical C++ solutions**
-- Strong focus on **time/space optimization** and low-level understanding
 
 ---
 
