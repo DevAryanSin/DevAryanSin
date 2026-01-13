@@ -1,24 +1,8 @@
-## Hi there 👋
-
-<!--
-**DevAryanSin/DevAryanSin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 <h3 align="center">B.Tech Computer Science & Artificial Intelligence (CSAI)</h3>
 
 <p align="center">
-🚀 Full-Stack Developer | 🤖 AI & ML Enthusiast | ☁️ Cloud & Systems Explorer  
+🚀 Full-Stack Developer | 🤖 AI & LLM Systems Enthusiast | ☁️ Cloud & Systems Explorer  
 </p>
 
 ---
@@ -27,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🎓 CSAI undergraduate with strong foundations in **Data Structures, Algorithms, and System Design**
 - 🌱 Currently learning **Full-Stack Web Development**, **Cloud Platforms**, and **LLM-based systems**
-- 🔭 Working on projects involving **Web Apps, Machine Learning, and Scalable Architectures**
-- 💡 Interested in **AI-powered applications**, **distributed systems**, and **developer tooling**
-- 🛠️ Comfortable with both **problem-solving** and **building production-ready apps**
+- 🔭 Building projects involving **AI systems, scalable web apps, and applied ML**
+- 💡 Interested in **Retrieval-Augmented Generation (RAG)**, **Generative AI**, and **distributed systems**
+- 🛠️ Comfortable with both **problem-solving** and **production-ready engineering**
 
 ---
 
@@ -61,18 +45,52 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Projects  
 
-- 🔹 **WikiGPT- RAG based AI Assistant on Wikipedia*  
-  -Built a Retrieval-Augmented Generation (RAG) chatbot grounded in Wikipedia knowledge
-  -Uses hybrid retrieval (dense + sparse) for high-precision context fetching
-  -Designed to reduce hallucinations and improve factual accuracy
-  -Explored Knowledge Graph integration and Mixture-of-Experts (MoE) concepts
-  -Focused on scalable LLM pipelines and real-world information retrieval
+### 🔹 WikiGPT — RAG-based AI Assistant  
+- Built a **Retrieval-Augmented Generation (RAG)** chatbot grounded in **Wikipedia knowledge**
+- Implements **hybrid retrieval (dense + sparse)** for accurate context fetching
+- Designed to **reduce hallucinations** and improve factual reliability
+- Explored **Knowledge Graphs** and **Mixture-of-Experts (MoE)** concepts
+- Focused on **scalable LLM pipelines** and real-world information retrieval  
 
-- 🔹 **Full-Stack AI Applications**  
-  End-to-end web apps using **Next.js, Node.js, MongoDB**, and **ML models** for real-world use cases.
+🌐 Live: https://www.wikigpt.app/
 
-- 🔹 **System & Algorithmic Projects**  
-  Optimized implementations of **DSA**, **number theory**, and **performance-critical C++ solutions**.
+---
+
+### 🔹 NovelAI — AI-Powered Creative Generation Platform  
+- Developing an **AI-driven creative assistant** for:
+  - Story and narrative generation  
+  - Character and world-building support  
+- Uses **advanced prompt engineering**, **context memory**, and creative constraints
+- Emphasis on:
+  - Long-context handling  
+  - Style consistency  
+  - Controlled generation  
+- Built as a **modular full-stack AI system**
+
+---
+
+### 🔹 Full-Stack AI Applications  
+- End-to-end web apps using **Next.js, Node.js, MongoDB**
+- Integrated **LLMs, embeddings, vector databases**, and APIs
+- Designed with **production readiness** and scalability in mind
+
+---
+
+### 🔹 System & Algorithmic Projects  
+- Optimized implementations of:
+  - **Data Structures & Algorithms**
+  - **Number Theory**
+  - **Performance-critical C++ solutions**
+- Strong focus on **time/space optimization** and low-level understanding
+
+---
+
+## 🚀 Current Focus  
+
+- 🧠 **LLM Systems**: RAG, embeddings, vector search, hallucination reduction  
+- ✍️ **Generative AI**: narrative AI, creative assistants, prompt engineering  
+- 🌐 **Full-Stack Engineering**: scalable, real-world applications  
+- ☁️ **Cloud & Systems**: deployment, backend architecture, and system design  
 
 ---
 
@@ -98,8 +116,8 @@ Here are some ideas to get you started:
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *[LinkedIn](https://www.linkedin.com/in/aryansingh97/)*
-- 🌐 WikiGPT: *[WikiGPT](https://www.wikigpt.app/)*
+- 💼 LinkedIn: https://www.linkedin.com/in/aryansingh97/
+- 🌐 WikiGPT: https://www.wikigpt.app/
 
 ---
 
