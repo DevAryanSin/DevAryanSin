@@ -5,9 +5,8 @@
 🚀 Full-Stack Developer | 🤖 AI & LLM Systems Enthusiast | ☁️ Cloud & Systems Explorer  
 </p>
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4isbvdkglalnybx2imabkyjxi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4isbvdkglalnybx2imabkyjxi&redirect=true)
+<!-- Spotify widget removed -->
 
--->
 ---
 
 ## 👨‍💻 About Me  
@@ -48,6 +47,7 @@
 
 ## 📌 Featured Projects  
 
+
 ### 🔹 WikiGPT — RAG-based AI Assistant  
 - Built a **Retrieval-Augmented Generation (RAG)** chatbot grounded in **Wikipedia knowledge**
 - Implements **hybrid retrieval (dense + sparse)** for accurate context fetching
@@ -56,6 +56,22 @@
 - Focused on **scalable LLM pipelines** and real-world information retrieval  
 
 🌐 Live: [WikiGPT](https://www.wikigpt.app/)
+
+---
+
+
+### 🔹 Beacon — AI-Powered BRD Generation Platform  
+- Built a **full-stack AI system** that converts **Slack threads, emails, and documents** into structured **Business Requirements Documents (BRDs)**  
+- Designed a **multi-agent LLM pipeline** to generate 7 BRD sections in parallel with validation for **contradictions and missing requirements**  
+- Implemented a **two-phase classification engine (heuristics + LLM)** to filter noise and extract high-signal product insights  
+- Integrated **Slack & file ingestion pipelines** with traceability from requirement → source message  
+- Enabled **human-in-the-loop editing, versioning, and section locking** for production-grade workflows  
+- Export support for **Markdown, HTML, and DOCX** for stakeholder-ready delivery  
+- Focused on **scalable system design, real-time pipelines, and collaborative UX**
+
+🌐 Live: https://beacon.sandeepp.in/
+
+💻 Repo: https://github.com/simplysandeepp/Beacon  
 
 ---
 
@@ -81,9 +97,6 @@
 
 ---
 
-
----
-
 ## 🚀 Current Focus  
 
 - 🧠 **LLM Systems**: RAG, embeddings, vector search, hallucination reduction  
@@ -99,11 +112,9 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAryanSin&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevAryanSin&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
@@ -121,6 +132,5 @@
 - 🌐 WikiGPT: https://www.wikigpt.app/
 
 ---
-
 
 ⭐ **If you like my work, consider starring my repositories!**
