@@ -69,9 +69,9 @@
 - Export support for **Markdown, HTML, and DOCX** for stakeholder-ready delivery  
 - Focused on **scalable system design, real-time pipelines, and collaborative UX**
 
-🌐 Live: https://beacon.sandeepp.in/
+🌐 Live: [https://beacon-brd.vercel.app/](https://beacon-brd.vercel.app/ingestion)
 
-💻 Repo: https://github.com/simplysandeepp/Beacon  
+💻 Repo: https://github.com/DevAryanSin/BeaconBRD  
 
 ---
 
